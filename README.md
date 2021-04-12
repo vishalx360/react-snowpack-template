@@ -1,3 +1,7 @@
+![poster](./poster.png)
+
+# react-snowpack-template
+
 # New Project
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
